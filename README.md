@@ -1,10 +1,10 @@
 # RainDrops_Python
 Generates a cool silhouette canvas showing different color raindrops.
 
-Prerequisites
+##  Prerequisites
 
 - Python 3.5
 
-Instructions
+## Instructions
 
 - Simple enter the number of raindrops (integer) to run the program!
